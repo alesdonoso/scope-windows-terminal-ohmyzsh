@@ -83,3 +83,8 @@ Do it directly following the GitHub repository documentation:
    ## There you go! 🚀
    
    
+![Scope Color Scheme](https://user-images.githubusercontent.com/48650098/66275820-b1595d00-e88c-11e9-983b-8aea6c498083.png)
+
+#### Thanks so much!
+You can find me on Twitter:
+```@alesdonoso```
