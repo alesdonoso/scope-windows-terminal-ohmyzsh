@@ -1,6 +1,8 @@
 # scope-windows-terminal-ohmyzsh
 The brand colors of Scope.ink for the new Windows Terminal with Oh My Zsh plugin
 
+![Scope Color Scheme](https://user-images.githubusercontent.com/48650098/66275820-b1595d00-e88c-11e9-983b-8aea6c498083.png)
+
 # 1. Install the new Microsoft (Windows) Terminal
 
 You can install it from the Microsoft Store:
