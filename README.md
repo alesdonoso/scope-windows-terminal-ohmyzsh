@@ -547,5 +547,4 @@ Do it directly following the GitHub repository documentation:
 ```
 
 #### Thanks so much!
-You can find me on Twitter:
-```@alesdonoso```
+You can find me on [Twitter](https://www.twitter.com/alesdonoso "Alesdonoso Twitter")
